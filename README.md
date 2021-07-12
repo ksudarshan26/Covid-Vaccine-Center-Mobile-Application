@@ -1,8 +1,8 @@
 # Covid-Vaccine-Center-Mobile-Application
 Developed a mobile application for finding the nearest Covid Vaccine Center using MIT App Inventor.
 **Home Page**
-<img src="HomePage.jpg" width="324" height="324">
+<img src="HomePage.jpg" width="350" height="400">
 **Nearest Vaccince Centers**
-![image](VaccineCenters.jpg)
+<img src="VaccineCenters.jpg" width="350" height="400">
 **Navigation on Map**
-![image](MapNavigation.jpg)
+<img src="MapNavigation.jpg" width="350" height="400">
